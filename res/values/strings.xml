@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Set</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="singleplayer">Start Single Player Game</string>
+    <string name="createmultiplayer">Create Multiplayer Game</string>
+    <string name="joinmultiplayer">Join Multiplayer Game</string>
+    <string name="newgame">New Game</string>
+    <string name="quit">Quit Game</string>
+    <string name="title_activity_play_screen">PlayScreen</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="help">Help</string>
+    
+    
+
+</resources>

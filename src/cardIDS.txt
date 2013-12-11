@@ -1,0 +1,12 @@
+	    private int[][][][] cardImageIds = {
+	    		{{{R.drawable.gde1,R.drawable.gde2,R.drawable.gde3},{R.drawable.gds1,R.drawable.gds2,R.drawable.gds3},{R.drawable.gdf1,R.drawable.gdf2,R.drawable.gdf3}},
+	    			{{R.drawable.goe1,R.drawable.goe2,R.drawable.goe3},{R.drawable.gos1,R.drawable.gos2,R.drawable.gos3},{R.drawable.gof1,R.drawable.gof2,R.drawable.gof3}},
+	    			{{R.drawable.gse1,R.drawable.gse2,R.drawable.gse3},{R.drawable.gss1,R.drawable.gss2,R.drawable.gss3},{R.drawable.gsf1,R.drawable.gsf2,R.drawable.gsf3}}},
+	    		{{{R.drawable.rde1,R.drawable.rde2,R.drawable.rde3},{R.drawable.rds1,R.drawable.rds2,R.drawable.rds3},{R.drawable.rdf1,R.drawable.rdf2,R.drawable.rdf3}},
+		    		{{R.drawable.roe1,R.drawable.roe2,R.drawable.roe3},{R.drawable.ros1,R.drawable.ros2,R.drawable.ros3},{R.drawable.rof1,R.drawable.rof2,R.drawable.rof3}},
+		    		{{R.drawable.rse1,R.drawable.rse2,R.drawable.rse3},{R.drawable.rss1,R.drawable.rss2,R.drawable.rss3},{R.drawable.rsf1,R.drawable.rsf2,R.drawable.rsf3}}},
+		    	{{{R.drawable.pde1,R.drawable.pde2,R.drawable.pde3},{R.drawable.pds1,R.drawable.pds2,R.drawable.pds3},{R.drawable.pdf1,R.drawable.pdf2,R.drawable.pdf3}},
+			    	{{R.drawable.poe1,R.drawable.poe2,R.drawable.poe3},{R.drawable.pos1,R.drawable.pos2,R.drawable.pos3},{R.drawable.pof1,R.drawable.pof2,R.drawable.pof3}},
+			    	{{R.drawable.pse1,R.drawable.pse2,R.drawable.pse3},{R.drawable.pss1,R.drawable.pss2,R.drawable.pss3},{R.drawable.psf1,R.drawable.psf2,R.drawable.psf3}}}};
+		};
+	
