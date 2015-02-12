@@ -3,6 +3,7 @@ package com.set.game;
 
 import java.util.ArrayList;
 import java.util.Random;
+import java.util.List;
 
 import com.set.game.Card;
 
@@ -14,7 +15,7 @@ public class Game {
 	
 	
 	public Card[] field;
-	public ArrayList<Card> deck;
+	public List<Card> deck;
 	public int[] players;
 	public int[] player_scores;
 	public boolean gameover;
@@ -167,8 +168,6 @@ public class Game {
 		}
 		return false;
 	}
-	
-	
 	
 }
 		

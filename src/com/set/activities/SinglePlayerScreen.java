@@ -63,7 +63,9 @@ public class SinglePlayerScreen extends Activity {
 			// if the selected card is the third card
 			if (selectedCards.size() == 3) {	
 
-				int[] selected = new int[] {selectedCards.get(0).intValue(),selectedCards.get(1).intValue(),selectedCards.get(2).intValue()};
+				int[] selected = new int[] {selectedCards.get(0).intValue(),
+						selectedCards.get(1).intValue(),
+						selectedCards.get(2).intValue()};
 				boolean valid_set = game.handleSelection(selected);
 				selectedCards = new ArrayList<Integer>();
 				
@@ -86,9 +88,6 @@ public class SinglePlayerScreen extends Activity {
 			
 		}
 		parent.setAdapter(new CardAdapter(this, game.field));
-		
-		
-		  
 	  }
 	 
 	
